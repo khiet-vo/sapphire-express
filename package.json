@@ -1,0 +1,100 @@
+{
+  "_args": [
+    [
+      "sapphire-express@0.1.6",
+      "/Users/khietvo/projects/coralbells/selerity-iframe"
+    ]
+  ],
+  "_from": "sapphire-express@0.1.6",
+  "_id": "sapphire-express@0.1.6",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/sapphire-express",
+  "_nodeVersion": "0.10.38",
+  "_npmOperationalInternal": {
+    "host": "packages-5-east.internal.npmjs.com",
+    "tmp": "tmp/sapphire-express-0.1.6.tgz_1455211056372_0.8477998317684978"
+  },
+  "_npmUser": {
+    "email": "ganderson@ondoher.com",
+    "name": "ondoher"
+  },
+  "_npmVersion": "2.13.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "sapphire-express",
+    "raw": "sapphire-express@0.1.6",
+    "rawSpec": "0.1.6",
+    "scope": null,
+    "spec": "0.1.6",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/sapphire-express/-/sapphire-express-0.1.6.tgz",
+  "_shasum": "ce85a1af60ac169b61f759979fe5c85ac85f0812",
+  "_shrinkwrap": null,
+  "_spec": "sapphire-express@0.1.6",
+  "_where": "/Users/khietvo/projects/coralbells/selerity-iframe",
+  "author": {
+    "name": "Glenn Anderson"
+  },
+  "bin": {
+    "sapphire": "bin/sapphire.js"
+  },
+  "bugs": {
+    "url": "https://github.com/Ondoher/sapphire/issues"
+  },
+  "dependencies": {
+    "body-parser": "^1.11.0",
+    "compression": "^1.2.1",
+    "cookies": "^0.3.8",
+    "cors": "^2.7.1",
+    "express": "^4.11.2",
+    "highlight.js": "^8.8.0",
+    "memcached": "^0.2.8",
+    "minify": "^1.0.4",
+    "node-static": "^0.7.2",
+    "node-uuid": "^1.4.1",
+    "q": "^1.0.0",
+    "redis": "^0.10.0",
+    "remarkable": "^1.6.0",
+    "socket.io": "^0.9.16"
+  },
+  "description": "Single Page Application Framework",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "ce85a1af60ac169b61f759979fe5c85ac85f0812",
+    "tarball": "http://registry.npmjs.org/sapphire-express/-/sapphire-express-0.1.6.tgz"
+  },
+  "gitHead": "411e0b1dd67232e049d066e254a8594576007928",
+  "homepage": "https://github.com/Ondoher/sapphire",
+  "keywords": [
+    "framework",
+    "sapphire",
+    "spa",
+    "express"
+  ],
+  "license": "MIT",
+  "main": "server.js",
+  "maintainers": [
+    {
+      "email": "ganderson@ondoher.com",
+      "name": "ondoher"
+    }
+  ],
+  "name": "sapphire-express",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ondoher/sapphire.git"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.6"
+}
