@@ -62,7 +62,8 @@
     "remarkable": "^1.6.0",
     "socket.io": "^0.9.16",
     "p3p":"*",
-    "helmet": "3.4.1"
+    "helmet": "3.4.1",
+    "helmet-csp":"2.3.0"
   },
   "description": "Single Page Application Framework",
   "devDependencies": {},
