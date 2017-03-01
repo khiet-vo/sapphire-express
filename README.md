@@ -37,3 +37,9 @@ When Sapphire is installed globally, it creates a command line interface that ca
 The second option, app, creates a basic application. In this case, we are creating the application "test". The application isn't very exciting, but it's a place to start.
 
 For a more indepth look at Sapphire, checkout the the [Sapphire Site](http://sapphire.uber-geek.com/docs).
+
+**EDIT** 
+
+***Add secure options***
+- cspOptions check at [helmetJS-csp](https://github.com/helmetjs/csp)
+- frameguardOptions chet at [helmetJS-frameguard](https://helmetjs.github.io/docs/frameguard/)
