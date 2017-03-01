@@ -61,7 +61,8 @@
     "redis": "^0.10.0",
     "remarkable": "^1.6.0",
     "socket.io": "^0.9.16",
-    "p3p":"*"
+    "p3p":"*",
+    "helmet": "3.4.1"
   },
   "description": "Single Page Application Framework",
   "devDependencies": {},
