@@ -63,7 +63,7 @@
     "socket.io": "^0.9.16",
     "p3p":"*",
     "helmet": "3.4.1",
-    "helmet-csp":"2.3.0"
+    "helmet-csp":"3.1.0"
   },
   "description": "Single Page Application Framework",
   "devDependencies": {},
